@@ -7,7 +7,6 @@ import { bindActionCreators } from 'redux';
 
 import QuizApp from './components/quizApp';
 
-import ActionTypes from './constants/actionTypes';
 import {setAnswer} from './actions/quizActions';
 import quiz from './stores/quizStore';
 
